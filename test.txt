@@ -1,3 +1,2 @@
 git test
-yeni güncellemeler eklendi
 git test güncellendi
